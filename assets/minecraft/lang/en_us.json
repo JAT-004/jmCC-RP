@@ -1,0 +1,5 @@
+{
+    "block.minecraft.coal_block": "Deactivated Signal Receiver",
+    "block.minecraft.lapis_block": "Inactive Signal Receiver",
+    "block.minecraft.redstone_block": "Active Signal Receiver"
+}
