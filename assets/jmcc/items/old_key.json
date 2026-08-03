@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "jmcc:item/key"
+        "model": "jmcc:item/old_key"
     }
 }

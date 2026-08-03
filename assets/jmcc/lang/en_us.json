@@ -1,7 +1,8 @@
 {
     "item.jmcc.broken_plate": "Broken Plate",
-    "item.jmcc.key": "Key",
     "item.jmcc.marker": "Marker",
+    "item.jmcc.old_key": "Old Key",
     "item.jmcc.plate": "Plate",
+    "item.jmcc.rusty_key": "Rusty Key",
     "item.jmcc.utility_key": "Utility Key"
 }

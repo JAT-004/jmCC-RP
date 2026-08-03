@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "jmcc:item/key"
+        "layer0": "jmcc:item/rusty_key"
     }
 }
