@@ -1,8 +1,10 @@
 {
     "jmcc.door.close_before_locking": "close door before locking",
+    "jmcc.door.electrically_operated": "electrically operated",
     "jmcc.door.is_locked": "door is locked",
     "jmcc.door.locked": "locked door",
     "jmcc.door.unlocked": "unlocked door",
+    "jmcc.door.wrong_key": "wrong key",
     "item.jmcc.broken_plate": "Broken Plate",
     "item.jmcc.marker": "Marker",
     "item.jmcc.old_key": "Old Key",
